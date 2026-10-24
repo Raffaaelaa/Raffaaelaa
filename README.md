@@ -28,5 +28,11 @@
    <a href="https://instagram.com/xz.raffa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/rafaela-o-009a82308/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafaelacorrente80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img width="374" height="271" alt="anime-kirana" src="https://github.com/user-attachments/assets/2da7f646-9389-49c0-9981-3895651f5461"/>
   </div>
+
+##
+
+<div>
+  <img align="rigth" width="200" height="200" alt="anime-kirana" src="https://github.com/user-attachments/assets/2da7f646-9389-49c0-9981-3895651f5461"/>
+  </div>
+
