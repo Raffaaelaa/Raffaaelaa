@@ -4,7 +4,7 @@
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas.
 - 😄 ela/dela
 
-    Tenho 20 anos, estou iniciando na área da tecnologia com formação técnica em Informática e graduação em andamento em Análise e Desenvolvimento de Sistemas, sou uma profissional focada em tecnologia que combina raciocínio lógico, disciplina e comunicação clara para o desenvolvimento de soluções eficientes. Atuo na análise de requisitos, estrutura e modelagem de bancos de dados, além do desenvolvimento de interfaces web (Front-End) focadas em usabilidade e boa experiência do usuário. Identifico falhas em processos, soluciono problemas lógicos com agilidade e aplico boas práticas de programação e sistemas operacionais para otimizar fluxos de trabalho. 
+    Tenho 20 anos, estou iniciando na área da tecnologia com formação técnica em Informática e graduação em andamento em Análise e Desenvolvimento de Sistemas, sou uma profissional focada em tecnologia que combina raciocínio lógico, disciplina e comunicação clara para o desenvolvimento de soluções eficientes.
 
 <div>
 	<a href="https://github.com/Raffaaelaa">
