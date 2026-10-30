@@ -13,8 +13,8 @@
     Tenho 20 anos, estou iniciando na área da tecnologia com formação técnica em Informática e graduação em andamento em Análise e Desenvolvimento de Sistemas, sou uma profissional focada em tecnologia que combina raciocínio lógico, disciplina e comunicação clara para o desenvolvimento de soluções eficientes.
 
 <div>
-	<a href="https://github.com/Raffaaelaa">
-	<img height="em" src="https://github-readme-stats.vercel.app/api?username=Raffaaelaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	<a href="https://github.com/Raffaaelaa"></a>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raffaaelaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffaaelaa&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
