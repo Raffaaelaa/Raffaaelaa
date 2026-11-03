@@ -1,87 +1,154 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=Raffaaelaa&fontSize=58&fontColor=b0245f&fontAlignY=40&desc=Ficha%20de%20Personagem&descAlignY=62&descColor=d6336c" width="100%" alt="Raffaaelaa" />
+<img src="assets/header.svg" width="100%" alt="Raffaaelaa - Maga do Código" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=520&lines=Maga+do+c%C3%B3digo;Aventureira+do+front-end;Em+busca+do+pr%C3%B3ximo+level" alt="Maga do código" />
+<br>
 
-</div>
+**[Status](#status)** · **[Habilidades](#habilidades)** · **[Guild](#guild)** · **[Inventário](#inventário)** · **[Quests](#quests)** · **[Conquistas](#conquistas)** · **[Minigame](#minigame)**
 
----
+<br>
 
-## 🎀 Ficha do personagem
-
-| Atributo | Valor |
-|:--|:--|
-| 🌸 **Classe** | Maga do código |
-| 💫 **Level** | 27 |
-| 🎯 **Objetivo** | Criar experiências incríveis |
-
-```text
-HP        ▰▰▰▰▰▰▰▰▰▰  100/100
-MP (café) ▰▰▰▰▰▰▰▰▱▱   80/100
-XP        ▰▰▰▰▰▰▰▱▱▱   75%
-```
-
----
-
-## ✨ Árvore de habilidades
-
-| Habilidade | Nível | Domínio |
-|:--|:--:|:--|
-| **CSS3** | 9 | ★★★★★ |
-| **C#** | 8 | ★★★★☆ |
-| **HTML5** | 8 | ★★★★☆ |
-| **javascript** | 7 | ★★★★☆ |
-| **C** | 6 | ★★★☆☆ |
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ff1493?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-d4537e?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-db7093?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-ff85c0?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="assets/techs.svg" width="80%" alt="JavaScript, HTML5, CSS3, C, C#" />
 
 </div>
 
 ---
 
-## 📊 Diário de aventuras
+## Status
+
+<div align="center">
+<img src="assets/status.svg" width="100%" alt="Ficha da personagem: Maga do Código, Level 27" />
+</div>
+
+> Clique nas setas **▶** abaixo para abrir os detalhes. Tem segredo escondido!
+
+---
+
+## Habilidades
+
+<div align="center">
+<img src="assets/skills.svg" width="100%" alt="Árvore de habilidades: CSS3, C#, HTML5, JavaScript, C" />
+</div>
+
+<details>
+<summary><b>CSS3</b> — Magia de Estilo · Nível 9</summary>
+
+- **Habilidade ativa:** Feitiço de Layout (Flexbox e Grid)
+- **Passiva:** animações que encantam
+- **Próximo upgrade:** Container Queries e `@layer`
+
+</details>
+
+<details>
+<summary><b>C#</b> — Magia Arcana · Nível 8</summary>
+
+- **Habilidade ativa:** Invocar Classes (POO)
+- **Próximo upgrade:** LINQ avançado, SOLID e padrões de projeto
+
+</details>
+
+<details>
+<summary><b>HTML5</b> — Fundação do Reino · Nível 8</summary>
+
+- **Habilidade ativa:** Semântica Sagrada e acessibilidade
+- **Passiva:** estrutura sólida em qualquer projeto
+
+</details>
+
+<details>
+<summary><b>JavaScript</b> — Magia Elemental · Nível 7</summary>
+
+- **Habilidade ativa:** Manipular o DOM
+- **Próximo upgrade:** Async/Await, APIs e módulos ES
+
+</details>
+
+<details>
+<summary><b>C</b> — Runas Antigas · Nível 6</summary>
+
+- **Habilidade ativa:** Controle de Memória (ponteiros)
+- **Passiva:** entender como as coisas funcionam por baixo do capô
+
+</details>
+
+---
+
+## Guild
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Raffaaelaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=ffc0cb&ring_color=ff69b4&count_private=true" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffaaelaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb" alt="Top linguagens" />
+<img src="https://streak-stats.demolab.com/?user=Raffaaelaa&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakNum=B0245F&currStreakLabel=D6336C&sideNums=B0245F&sideLabels=D6336C&dates=FF69B4&stroke=FFC0CB&border=FFC0CB" alt="Estatísticas de contribuição e ofensiva" />
 
-<img src="https://streak-stats.demolab.com?user=Raffaaelaa&hide_border=true&background=0d1117&ring=ff69b4&fire=ff1493&currStreakLabel=ffc0cb&sideLabels=ff69b4&currStreakNum=ffffff&sideNums=ffffff&dates=db7093" alt="Streak" />
+</div>
 
+<details>
+<summary><b>Resumo do mapa</b></summary>
+
+| Métrica | Valor | Status no mapa |
+|:---|:---:|:---|
+| Total de contribuições | **20+** | Missões cumpridas com sucesso |
+| Ofensiva atual | **3 dias** | Foco diário mantido |
+| Linguagem principal | **JavaScript / HTML** | Domínio elementar ativado |
+
+</details>
+
+---
+
+## Inventário
+
+<details open>
+<summary><b>Abrir mochila</b> (3 itens equipados)</summary>
+
+| Slot | Item mágico | Raridade | Efeito ativo |
+|:---:|:---|:---:|:---|
+| 🗡️ | **Espada do Debug** | Épico | Elimina bugs teimosos instantaneamente |
+| ☕ | **Poção de Café** | Comum | Restaura +50 de energia mental e foco |
+| 📖 | **Grimório de Docs** | Raro | Consulta rápida de sintaxes e códigos |
+| 🔒 | **???** | Bloqueado | Desbloqueie publicando um repo open-source |
+
+</details>
+
+---
+
+## Quests
+
+<div align="center">
+<img src="assets/quests.svg" width="100%" alt="Diário de missões: 2 de 4 concluídas" />
 </div>
 
 ---
 
-## 🎒 Mochila
+## Conquistas
 
-| Item | Efeito |
-|:--|:--|
-| 🗡️ **Espada do debug** | Elimina bugs teimosos |
-| ☕ **Poção de café** | Restaura +50 de energia |
-| 📖 **Grimório de docs** | Consulta rápida |
+<div align="center">
+<img src="assets/achievements.svg" width="100%" alt="Conquistas desbloqueadas e bloqueadas" />
+</div>
 
----
+<details>
+<summary><b>Segredo escondido</b></summary>
 
-## ⚔️ Quests ativas
+🎉 **Você encontrou o baú secreto!** `+999 XP`
 
-- [x] Dominar o básico de web
-- [x] Concluir o primeiro projeto
-- [ ] Aprofundar em C# e orientação a objetos
-- [ ] Publicar um projeto open source
+Fun fact: já perdi 2 horas de debug por causa de um ponto e vírgula.
+
+</details>
 
 ---
+
+## Minigame
 
 <div align="center">
 
-*"Toda grande maga já foi aprendiz."*
+*A cobrinha está devorando seus commits e construindo suas conquistas diárias!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer" width="100%" alt="" />
+<a href="https://github.com/Raffaaelaa/Raffaaelaa">
+  <img src="https://raw.githubusercontent.com/Raffaaelaa/Raffaaelaa/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuições" width="90%" />
+</a>
+
+<br><br>
+
+*"Toda grande maga do código já foi uma aprendiz na chaveta inicial."*
+
+<img src="assets/footer.svg" width="100%" alt="Game over? Continuar" />
 
 </div>
