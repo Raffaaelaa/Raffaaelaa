@@ -4,7 +4,7 @@
 
 <br>
 
-**[Status](#status)** · **[Habilidades](#habilidades)** · **[Guild](#guild)** · **[Inventário](#inventário)** · **[Quests](#quests)** · **[Conquistas](#conquistas)** · **[Minigame](#minigame)**
+<a href="#status"><img src="assets/btn-status.svg" height="36" alt="STATUS" /></a> <a href="#habilidades"><img src="assets/btn-habilidades.svg" height="36" alt="HABILIDADES" /></a> <a href="#guild"><img src="assets/btn-guild.svg" height="36" alt="GUILD" /></a> <a href="#inventário"><img src="assets/btn-inventario.svg" height="36" alt="INVENTÁRIO" /></a> <a href="#quests"><img src="assets/btn-quests.svg" height="36" alt="QUESTS" /></a> <a href="#conquistas"><img src="assets/btn-conquistas.svg" height="36" alt="CONQUISTAS" /></a> <a href="#minigame"><img src="assets/btn-minigame.svg" height="36" alt="MINIGAME" /></a>
 
 <br>
 
@@ -20,7 +20,7 @@
 <img src="assets/status.svg" width="100%" alt="Ficha da personagem: Maga do Código, Level 27" />
 </div>
 
-> Clique nas setas **▶** abaixo para abrir os detalhes. Tem segredo escondido!
+> Clique nas setinhas abaixo para abrir os detalhes. Tem segredo escondido!
 
 ---
 
@@ -141,9 +141,11 @@ Fun fact: já perdi 2 horas de debug por causa de um ponto e vírgula.
 
 *A cobrinha está devorando seus commits e construindo suas conquistas diárias!*
 
-<a href="https://github.com/Raffaaelaa/Raffaaelaa">
-  <img src="https://raw.githubusercontent.com/Raffaaelaa/Raffaaelaa/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuições" width="90%" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raffaaelaa/Raffaaelaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raffaaelaa/Raffaaelaa/output/github-contribution-grid-snake.svg">
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Raffaaelaa/Raffaaelaa/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</picture>
 
 <br><br>
 
